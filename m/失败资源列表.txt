@@ -1,0 +1,4 @@
+https://raw.liucn.cc/box/lib/XBPQ.jar
+https://raw.liucn.cc/box/lib/kuba.js
+https://raw.liucn.cc/box/js/duo.txt
+https://raw.liucn.cc/box/libs/短剧网.js
